@@ -2,7 +2,7 @@
 # Face Detection with Flutter
 > Face Detection in Flutter using Firebase’s ML Kit and CustomPainter.
 
-![Example screenshot](demo/example.png)
+![Example screenshot](/recunoastere_faciala/demo/example.png)
 
 ## Table of Contents
 * [General info](#general-info)

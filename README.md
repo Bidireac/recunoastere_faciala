@@ -23,4 +23,4 @@ Project is created with:
 ## Setup
 To run this project, use Android Studio, select a AVD emulator and launch it.
 
-![demo](/demo/app.gif)
+![demo](/recunoastere_faciala/demo/app.gif)

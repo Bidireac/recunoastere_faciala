@@ -1,16 +1,26 @@
-# recunoastere_faciala
 
-A new Flutter application.
+# Face Detection with Flutter
+> Face Detection in Flutter using Firebase’s ML Kit and CustomPainter.
 
-## Getting Started
+![Example screenshot](/recunoastere_faciala/demo/example.png)
 
-This project is a starting point for a Flutter application.
+## Table of Contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-A few resources to get you started if this is your first Flutter project:
+## General info
+A Flutter app that detects human faces from the image gallery or from the phone camera and frames them.
+	
+## Technologies
+Project is created with:
+* Android Studio: 4.0.1
+* Flutter: 1.20.2
+* Dart: 2.9.1
+* image_picker: ^0.6.7+6
+* firebase_ml_vision: ^0.9.6+2
+	
+## Setup
+To run this project, use Android Studio, select a AVD emulator and launch it.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![demo](/recunoastere_faciala/demo/app.gif)

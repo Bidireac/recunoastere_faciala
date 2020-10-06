@@ -24,3 +24,6 @@ Project is created with:
 To run this project, use Android Studio, select a AVD emulator and launch it.
 
 ![demo](/recunoastere_faciala/demo/app.gif)
+
+## Status
+Project is:  _finished

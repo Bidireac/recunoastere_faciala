@@ -8,6 +8,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Status](#status)
 
 ## General info
 A Flutter app that detects human faces from the image gallery or from the phone camera and frames them.
@@ -24,3 +25,6 @@ Project is created with:
 To run this project, use Android Studio, select a AVD emulator and launch it.
 
 ![demo](/recunoastere_faciala/demo/app.gif)
+
+## Status
+Project is:  _finished
